@@ -1,0 +1,202 @@
+
+.parent{
+    color: rgb(67, 144, 221);
+    height: 1734px;
+     width: 100%;
+    display: flex;
+   
+    
+
+}
+.login-side{
+    align-items: flex-start;
+    height: 1679px;
+    width: 51%;
+    display: flex;
+    flex-direction: column;
+
+}
+.logo{
+    flex: 1;
+    background-color: #fff;
+    width: 100%;
+    height: 25%;
+    
+}
+.logo-img{
+    margin-top: 156px;
+    height: 30%;
+    margin-left: 504px
+}
+.logo-text{
+    padding-bottom: 6px;
+    height: 84px
+}
+.login-button{
+    margin-left: 2022px;
+    position: relative;
+    top: -144px;
+    background-color: #2b1e16;
+    height: 23%;
+    width: 14%;
+    display: flex;
+    flex-direction: row;
+}
+.login{
+    background-color: rgb(156, 134, 134);
+    height: 100%;
+    width: 50%;
+}
+.signup{
+    height: 100%;
+    width: 100%;
+    color: rgb(48, 37, 24);
+}
+.signup-btn{
+    margin-top: -700px;
+}
+.add-coments{
+    flex: 1;
+   background-color:#fff;
+    width: 100%;
+    height: 25%;
+}
+.coment{
+    font-size:120px ;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    margin-left: 504px;
+    color: black;
+}
+.coment2{
+    font-size: 91px;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    color: gray;
+    margin-left: 504px;
+}
+.location{
+    flex: 1;
+    background-color:#fff;
+    width: 100%;
+    height: 25%;
+}
+.left{
+    display: flex;
+    margin-top: 93px;
+    height: 157px;
+    width: 65%;
+    border: 3px solid grey;
+    margin-left: 504px;
+    
+}
+.right{
+    height: 100%;
+    width: 25%;
+    background-color: #fc8019;
+    float: right;
+    
+}
+.text{
+    flex: 1;
+    display: inline;
+    font-size: 51px;
+    margin-left: 82px;
+    position: relative;
+    margin-top: 38px;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    color: grey;
+}
+}
+.location-box{
+    height: 500px;
+    width: 200px;
+}
+.available-cities{
+    flex: 1;
+    background-color: #fff;
+    width: 100%;
+    height: 25%;
+    
+}
+.cities{
+  
+    width: 65%;
+    margin-left: 504px;
+}
+.picture-side{
+    background-image: url(./images/swiggy\ image\ 1.webp);
+    height: 1734px;
+    width: 49%;
+  align-items: flex-end;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.features{
+   
+    width: 100%;
+    height: 1150px;
+    background-color:#2b1e16;
+    align-content: flex-start;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+image1{
+    height: 50%;
+    width: 80%;
+}
+.download-app{
+    background-color: darkcyan;
+    width: 100%;
+    height: 2276px;
+    background-image: url(images/bottom\ picture.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+} 
+.find food{
+    font-size: 53px;
+    margin-left: 45px;
+    margin-top: 42px;
+    color: white;
+    
+}.fa-solid fa-location-crosshairs{
+    height: 30px;
+}
+.bttn1{
+    background-image: url(images/android\ icon.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bttn2{
+    background-image:url(images/apple\ store\ icon.webp);
+
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.bttn1:hover{
+    cursor: pointer;
+}
+.bttn2:hover{
+    cursor: pointer;
+}
+.ftr{
+    height: 2000px;
+    width: 100%;
+    background-color:black;
+    font-size: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.last-div{
+    display: flex;
+    flex-direction: column;
+}
+.bttn3:hover{
+    cursor: pointer;
+}
+.right:hover{
+    cursor: pointer;
+}
+::placeholder{
+    font-size: 85px;
+}
